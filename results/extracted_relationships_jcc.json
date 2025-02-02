@@ -1,0 +1,235 @@
+[
+    {
+        "excerpt": "Excerpt 1",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "John",
+                    "tail": "Mary",
+                    "relationship": "John is Mary's brother",
+                    "relationship_type": "family"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "John",
+                    "relationship": "Mary is John's sister",
+                    "relationship_type": "family"
+                },
+                {
+                    "head": "John",
+                    "tail": "New York",
+                    "relationship": "John lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "New York",
+                    "relationship": "Mary lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "John",
+                    "tail": "Google",
+                    "relationship": "John works at Google",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "Google",
+                    "relationship": "Mary works at Google",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Google",
+                    "tail": "New York",
+                    "relationship": "Google has an office in New York",
+                    "relationship_type": "geographical_association"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 2",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "John",
+                    "tail": "Mary",
+                    "relationship": "John is Mary's brother",
+                    "relationship_type": "family"
+                },
+                {
+                    "head": "John",
+                    "tail": "New York",
+                    "relationship": "John lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "New York",
+                    "relationship": "Mary lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "John",
+                    "tail": "TechCorp",
+                    "relationship": "John works at TechCorp",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "TechCorp",
+                    "relationship": "Mary works at TechCorp",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "TechCorp",
+                    "tail": "New York",
+                    "relationship": "TechCorp is located in New York",
+                    "relationship_type": "geographical_association"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 3",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "John",
+                    "tail": "Mary",
+                    "relationship": "John is Mary's brother",
+                    "relationship_type": "family"
+                },
+                {
+                    "head": "John",
+                    "tail": "New York",
+                    "relationship": "John lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "New York",
+                    "relationship": "Mary lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "John",
+                    "tail": "Google",
+                    "relationship": "John works at Google",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "Google",
+                    "relationship": "Mary works at Google",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Google",
+                    "tail": "New York",
+                    "relationship": "Google has an office in New York",
+                    "relationship_type": "geographical_association"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 4",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Microsoft",
+                    "tail": "Bill Gates",
+                    "relationship": "Bill Gates is a co-founder of Microsoft",
+                    "relationship_type": "founder"
+                },
+                {
+                    "head": "Microsoft",
+                    "tail": "Satya Nadella",
+                    "relationship": "Satya Nadella is the CEO of Microsoft",
+                    "relationship_type": "leadership"
+                },
+                {
+                    "head": "Bill Gates",
+                    "tail": "Satya Nadella",
+                    "relationship": "Satya Nadella succeeded Bill Gates as a leader at Microsoft",
+                    "relationship_type": "successor"
+                },
+                {
+                    "head": "Microsoft",
+                    "tail": "Windows",
+                    "relationship": "Microsoft develops Windows",
+                    "relationship_type": "product"
+                },
+                {
+                    "head": "Bill Gates",
+                    "tail": "Melinda Gates",
+                    "relationship": "Bill Gates and Melinda Gates were married",
+                    "relationship_type": "marriage"
+                },
+                {
+                    "head": "Bill Gates",
+                    "tail": "Melinda Gates Foundation",
+                    "relationship": "Bill Gates is a co-chair of the Melinda Gates Foundation",
+                    "relationship_type": "leadership"
+                },
+                {
+                    "head": "Melinda Gates",
+                    "tail": "Melinda Gates Foundation",
+                    "relationship": "Melinda Gates is a co-chair of the Melinda Gates Foundation",
+                    "relationship_type": "leadership"
+                },
+                {
+                    "head": "Melinda Gates Foundation",
+                    "tail": "Microsoft",
+                    "relationship": "Melinda Gates Foundation is a philanthropic organization founded by Bill Gates, a co-founder of Microsoft",
+                    "relationship_type": "affiliation"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 5",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "John",
+                    "tail": "Mary",
+                    "relationship": "John is married to Mary",
+                    "relationship_type": "marriage"
+                },
+                {
+                    "head": "John",
+                    "tail": "Google",
+                    "relationship": "John works at Google",
+                    "relationship_type": "employment"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "Google",
+                    "relationship": "Mary uses Google services",
+                    "relationship_type": "customer"
+                },
+                {
+                    "head": "John",
+                    "tail": "New York",
+                    "relationship": "John lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "Mary",
+                    "tail": "New York",
+                    "relationship": "Mary lives in New York",
+                    "relationship_type": "residence"
+                },
+                {
+                    "head": "Google",
+                    "tail": "New York",
+                    "relationship": "Google has an office in New York",
+                    "relationship_type": "geographical_association"
+                }
+            ]
+        }
+    }
+]

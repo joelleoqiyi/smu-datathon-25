@@ -1,0 +1,331 @@
+[
+    {
+        "excerpt": "Excerpt 1",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Starbucks",
+                    "tail": "National Labor Relations Board",
+                    "relationship": "The National Labor Relations Board judge found that Starbucks violated federal labor law.",
+                    "relationship_type": "legal_finding"
+                },
+                {
+                    "head": "Starbucks",
+                    "tail": "NLRB",
+                    "relationship": "NLRB rulings found that Starbucks violated labor law.",
+                    "relationship_type": "legal_finding"
+                },
+                {
+                    "head": "Starbucks",
+                    "tail": "employees",
+                    "relationship": "Starbucks increased wages and offered new perks and benefits only to non-union employees.",
+                    "relationship_type": "employment_policy"
+                },
+                {
+                    "head": "Starbucks",
+                    "tail": "unions",
+                    "relationship": "Starbucks has violated labor law in its efforts to stop unions from forming in its coffee shops.",
+                    "relationship_type": "labor_dispute"
+                },
+                {
+                    "head": "Mara-Louise Anzalone",
+                    "tail": "Starbucks",
+                    "relationship": "Mara-Louise Anzalone is the administrative law judge who ruled against Starbucks.",
+                    "relationship_type": "legal_authority"
+                },
+                {
+                    "head": "National Labor Relations Board",
+                    "tail": "Mara-Louise Anzalone",
+                    "relationship": "Mara-Louise Anzalone is a judge for the National Labor Relations Board.",
+                    "relationship_type": "employment_policy"
+                },
+                {
+                    "head": "Starbucks",
+                    "tail": "federal labor law",
+                    "relationship": "Starbucks violated federal labor law.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "NLRB",
+                    "tail": "National Labor Relations Board",
+                    "relationship": "NLRB is an abbreviation for the National Labor Relations Board.",
+                    "relationship_type": "abbreviation"
+                },
+                {
+                    "head": "National Heritage Board",
+                    "tail": "Starbucks",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                },
+                {
+                    "head": "Asmara",
+                    "tail": "Starbucks",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                },
+                {
+                    "head": "Louise Anzalone",
+                    "tail": "Starbucks",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 2",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "Cambodian",
+                    "relationship": "Su Wenqiang is a Cambodian national",
+                    "relationship_type": "nationality"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "Fujian",
+                    "relationship": "Su Wenqiang's passport states he is from Fujian",
+                    "relationship_type": "origin"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "Lewis Road",
+                    "relationship": "Su Wenqiang was arrested at a location along Lewis Road",
+                    "relationship_type": "crime_involvement"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "Bukit Timah",
+                    "relationship": "Su Wenqiang was arrested in Bukit Timah",
+                    "relationship_type": "crime_involvement"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "money laundering",
+                    "relationship": "Su Wenqiang pleaded guilty to money laundering",
+                    "relationship_type": "crime_involvement"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "illegal remote gambling offences",
+                    "relationship": "Su Wenqiang possessed proceeds from illegal remote gambling offences",
+                    "relationship_type": "crime_involvement"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "work passes",
+                    "relationship": "Su Wenqiang lied to get work passes for himself and his wife",
+                    "relationship_type": "crime_involvement"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "district court",
+                    "relationship": "Su Wenqiang was sentenced in a district court",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "13 months' jail",
+                    "relationship": "Su Wenqiang was sentenced to 13 months' jail",
+                    "relationship_type": "punishment"
+                },
+                {
+                    "head": "Su Wenqiang",
+                    "tail": "10 suspects",
+                    "relationship": "Su Wenqiang was among 10 suspects arrested",
+                    "relationship_type": "group"
+                },
+                {
+                    "head": "money laundering case",
+                    "tail": "S$3 billion",
+                    "relationship": "More than S$3 billion in assets have been seized or frozen in relation to the money laundering case",
+                    "relationship_type": "financial_transaction"
+                },
+                {
+                    "head": "money laundering case",
+                    "tail": "largest",
+                    "relationship": "The money laundering case is one of the largest in the world",
+                    "relationship_type": "scale"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 3",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Meta",
+                    "tail": "European Union",
+                    "relationship": "Meta was fined by European Union regulators.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Meta",
+                    "tail": "Facebook",
+                    "relationship": "Meta owns Facebook.",
+                    "relationship_type": "ownership"
+                },
+                {
+                    "head": "Meta",
+                    "tail": "United States",
+                    "relationship": "Meta transferred personal data of Facebook users to servers in the United States.",
+                    "relationship_type": "data_transfer"
+                },
+                {
+                    "head": "European Union",
+                    "tail": "United States",
+                    "relationship": "The European Union fined Meta for transferring data to the United States.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "European Data Protection Board",
+                    "tail": "Meta",
+                    "relationship": "The European Data Protection Board announced the fine against Meta.",
+                    "relationship_type": "government_regulation"
+                },
+                {
+                    "head": "European Data Protection Board",
+                    "tail": "Irish Data Protection Commission",
+                    "relationship": "The fine followed an inquiry by the Irish Data Protection Commission.",
+                    "relationship_type": "collaboration"
+                },
+                {
+                    "head": "Irish Data Protection Commission",
+                    "tail": "Meta",
+                    "relationship": "The Irish Data Protection Commission conducted an inquiry into Meta.",
+                    "relationship_type": "investigation"
+                },
+                {
+                    "head": "General Data Protection Regulation",
+                    "tail": "European Union",
+                    "relationship": "The GDPR is a data privacy law of the European Union.",
+                    "relationship_type": "legislation"
+                },
+                {
+                    "head": "General Data Protection Regulation",
+                    "tail": "Meta",
+                    "relationship": "Meta violated the GDPR by transferring data to the United States.",
+                    "relationship_type": "legal_violation"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 4",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "Singapore",
+                    "relationship": "Zhang Ruijin was sentenced in Singapore for his involvement in a money laundering case.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "S$118 million",
+                    "relationship": "Zhang Ruijin was ordered to forfeit around S$118 million of his assets.",
+                    "relationship_type": "financial_transaction"
+                },
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "police",
+                    "relationship": "Zhang Ruijin's assets were originally seized by the police.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "10 accused persons",
+                    "relationship": "Zhang Ruijin is the fifth of 10 accused persons to be dealt with in relation to the case.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "forgery-related offences",
+                    "relationship": "Zhang Ruijin pleaded guilty to two counts of forgery-related offences.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Zhang Ruijin",
+                    "tail": "criminal conduct",
+                    "relationship": "Zhang Ruijin failed to satisfactorily account for property reasonably suspected to be benefits from criminal conduct.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Workforce Singapore",
+                    "tail": "Zhang Ruijin",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                },
+                {
+                    "head": "Comoros",
+                    "tail": "Zhang Ruijin",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                },
+                {
+                    "head": "Zhang Yaodong",
+                    "tail": "Zhang Ruijin",
+                    "relationship": "null",
+                    "relationship_type": "null"
+                }
+            ]
+        }
+    },
+    {
+        "excerpt": "Excerpt 5",
+        "relationships": {
+            "relationships": [
+                {
+                    "head": "Department of Education",
+                    "tail": "Liberty University",
+                    "relationship": "The Department of Education imposed a $14 million fine on Liberty University for violations of a campus safety law.",
+                    "relationship_type": "penalty"
+                },
+                {
+                    "head": "Liberty University",
+                    "tail": "Virginia",
+                    "relationship": "Liberty University is located in Virginia.",
+                    "relationship_type": "geographical_association"
+                },
+                {
+                    "head": "Department of Education",
+                    "tail": "Clery Act",
+                    "relationship": "The Department of Education imposed a fine for violations of the Clery Act.",
+                    "relationship_type": "government_regulation"
+                },
+                {
+                    "head": "Liberty University",
+                    "tail": "Clery Act",
+                    "relationship": "Liberty University violated the Clery Act.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Liberty University",
+                    "tail": "Department of Education",
+                    "relationship": "Liberty University agreed to spend an additional $2 million to improve on-campus safety following the Department of Education's review.",
+                    "relationship_type": "compliance"
+                },
+                {
+                    "head": "Department of Education",
+                    "tail": "2022",
+                    "relationship": "The Department of Education initiated the review in 2022.",
+                    "relationship_type": "temporal"
+                },
+                {
+                    "head": "Liberty University",
+                    "tail": "2021",
+                    "relationship": "A lawsuit was filed against Liberty University in 2021.",
+                    "relationship_type": "legal_violation"
+                },
+                {
+                    "head": "Liberty University",
+                    "tail": "12 women",
+                    "relationship": "12 women claimed that Liberty University created an environment that increased the likelihood of sexual assault and rape.",
+                    "relationship_type": "accusation"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,769 @@
+{
+    "legal_violation": [
+        "legal",
+        "court_case",
+        "lawsuit",
+        "regulatory_violation"
+    ],
+    "corporate_action": [
+        "merger",
+        "business_decision",
+        "acquisition"
+    ],
+    "government_regulation": [
+        "regulation",
+        "law_enforcement",
+        "policy"
+    ],
+    "geographical_association": [
+        "geographical",
+        "location",
+        "place"
+    ],
+    "crime_involvement": [
+        "crime",
+        "fraud",
+        "criminal",
+        "indictment",
+        "arrest"
+    ],
+    "financial_transaction": [
+        "finance",
+        "funding",
+        "seizure",
+        "money_transfer",
+        "investment"
+    ],
+    "scientific_discovery": [
+        "innovation",
+        "science",
+        "discovery",
+        "technology_breakthrough"
+    ],
+    "historical_event": [
+        "history",
+        "political_event",
+        "war",
+        "historical_event"
+    ],
+    "legal_ruling": [
+        "legal ruling"
+    ],
+    "null": [
+        "null"
+    ],
+    "abbreviation": [
+        "abbreviation"
+    ],
+    "professional_association": [
+        "professional association"
+    ],
+    "legal_involvement": [
+        "legal involvement"
+    ],
+    "nationality": [
+        "nationality"
+    ],
+    "origin": [
+        "origin"
+    ],
+    "contextual": [
+        "contextual"
+    ],
+    "jurisdictional": [
+        "jurisdictional"
+    ],
+    "collaborative": [
+        "collaborative"
+    ],
+    "employment": [
+        "employment"
+    ],
+    "location_proximity": [
+        "location proximity"
+    ],
+    "indirect_location": [
+        "indirect location"
+    ],
+    "location_association": [
+        "location association"
+    ],
+    "location_component": [
+        "location component"
+    ],
+    "data_privacy": [
+        "data privacy"
+    ],
+    "ownership": [
+        "ownership"
+    ],
+    "operational": [
+        "operational"
+    ],
+    "data_transfer": [
+        "data transfer"
+    ],
+    "investigation": [
+        "investigation"
+    ],
+    "violation": [
+        "violation"
+    ],
+    "organizational_structure": [
+        "organizational structure"
+    ],
+    "social_media_presence": [
+        "social media presence"
+    ],
+    "cultural_exchange": [
+        "cultural exchange"
+    ],
+    "regulatory_scrutiny": [
+        "regulatory scrutiny"
+    ],
+    "legislative_influence": [
+        "legislative influence"
+    ],
+    "compliance_requirement": [
+        "compliance requirement"
+    ],
+    "regulatory_alignment": [
+        "regulatory alignment"
+    ],
+    "legislative_creation": [
+        "legislative creation"
+    ],
+    "affiliation": [
+        "affiliation"
+    ],
+    "indirect_legal_violation": [
+        "indirect legal violation"
+    ],
+    "location-event": [
+        "location-event"
+    ],
+    "identity": [
+        "identity"
+    ],
+    "indirect_association": [
+        "indirect association"
+    ],
+    "media_coverage": [
+        "media coverage"
+    ],
+    "alias": [
+        "alias"
+    ],
+    "leadership": [
+        "leadership"
+    ],
+    "judicial_identification": [
+        "judicial identification"
+    ],
+    "judicial_action": [
+        "judicial action"
+    ],
+    "judicial_mention": [
+        "judicial mention"
+    ],
+    "criminal_association": [
+        "criminal association"
+    ],
+    "criminal_operation_location": [
+        "criminal operation location"
+    ],
+    "direct": [
+        "direct"
+    ],
+    "criminal_organization_leadership": [
+        "criminal organization leadership"
+    ],
+    "organizational_presence": [
+        "organizational presence"
+    ],
+    "legal_relationship": [
+        "legal relationship"
+    ],
+    "indirect_relationship_through_feri": [
+        "indirect relationship through feri"
+    ],
+    "name_component": [
+        "name component"
+    ],
+    "legal_appeal": [
+        "legal appeal"
+    ],
+    "political_affiliation": [
+        "political affiliation"
+    ],
+    "legal_process": [
+        "legal process"
+    ],
+    "residence": [
+        "residence"
+    ],
+    "legal_accusation": [
+        "legal accusation"
+    ],
+    "legal_defense": [
+        "legal defense"
+    ],
+    "extradition": [
+        "extradition"
+    ],
+    "diplomatic/legal_agreement": [
+        "diplomatic/legal agreement"
+    ],
+    "legal/location": [
+        "legal/location"
+    ],
+    "national": [
+        "national"
+    ],
+    "legal_testimony": [
+        "legal testimony"
+    ],
+    "geopolitical": [
+        "geopolitical"
+    ],
+    "legal_assessment": [
+        "legal assessment"
+    ],
+    "communication": [
+        "communication"
+    ],
+    "legal_conclusion": [
+        "legal conclusion"
+    ],
+    "report_submission": [
+        "report submission"
+    ],
+    "statement_issuance": [
+        "statement issuance"
+    ],
+    "reporting_structure": [
+        "reporting structure"
+    ],
+    "legal_reporting": [
+        "legal reporting"
+    ],
+    "legal_statement": [
+        "legal statement"
+    ],
+    "legal/criminal_proceedings": [
+        "legal/criminal proceedings"
+    ],
+    "law_enforcement_success": [
+        "law enforcement success"
+    ],
+    "name_fragment": [
+        "name fragment"
+    ],
+    "criminal_connection": [
+        "criminal connection"
+    ],
+    "case_name": [
+        "case name"
+    ],
+    "societal_impact": [
+        "societal impact"
+    ],
+    "perpetrator-victim_nationality": [
+        "perpetrator-victim nationality"
+    ],
+    "crime_city": [
+        "crime city"
+    ],
+    "judicial_location": [
+        "judicial location"
+    ],
+    "impact": [
+        "impact"
+    ],
+    "location_of_incident": [
+        "location of incident"
+    ],
+    "case_reference": [
+        "case reference"
+    ],
+    "confession": [
+        "confession"
+    ],
+    "naming": [
+        "naming"
+    ],
+    "location_context": [
+        "location context"
+    ],
+    "victim": [
+        "victim"
+    ],
+    "potential_sponsorship": [
+        "potential sponsorship"
+    ],
+    "business_interaction": [
+        "business interaction"
+    ],
+    "information_source": [
+        "information source"
+    ],
+    "financial_misconduct_allegation": [
+        "financial misconduct allegation"
+    ],
+    "typographical_error": [
+        "typographical error"
+    ],
+    "informational": [
+        "informational"
+    ],
+    "business_association": [
+        "business association"
+    ],
+    "corporate": [
+        "corporate"
+    ],
+    "legal_context": [
+        "legal context"
+    ],
+    "business_transaction": [
+        "business transaction"
+    ],
+    "trade_restriction": [
+        "trade restriction"
+    ],
+    "legal_penalty": [
+        "legal penalty"
+    ],
+    "involved_individual": [
+        "involved individual"
+    ],
+    "media_circulation": [
+        "media circulation"
+    ],
+    "legal_system_association": [
+        "legal system association"
+    ],
+    "administrative": [
+        "administrative"
+    ],
+    "information_dissemination": [
+        "information dissemination"
+    ],
+    "institutional_hierarchy": [
+        "institutional hierarchy"
+    ],
+    "media_platform_connection": [
+        "media platform connection"
+    ],
+    "business_operations": [
+        "business operations"
+    ],
+    "similarity": [
+        "similarity"
+    ],
+    "government_structure": [
+        "government structure"
+    ],
+    "geographical_and_legal_investigation": [
+        "geographical and legal investigation"
+    ],
+    "shared_involvement_in_labor_law_investigation": [
+        "shared involvement in labor law investigation"
+    ],
+    "legal_restriction": [
+        "legal restriction"
+    ],
+    "political_impact": [
+        "political impact"
+    ],
+    "subset": [
+        "subset"
+    ],
+    "indirect_legal_influence": [
+        "indirect legal influence"
+    ],
+    "social": [
+        "social"
+    ],
+    "incident": [
+        "incident"
+    ],
+    "cultural_context": [
+        "cultural context"
+    ],
+    "citizenship": [
+        "citizenship"
+    ],
+    "historical_context": [
+        "historical context"
+    ],
+    "terminology_context": [
+        "terminology context"
+    ],
+    "event": [
+        "event"
+    ],
+    "historical_commemoration": [
+        "historical commemoration"
+    ],
+    "conflict": [
+        "conflict"
+    ],
+    "membership": [
+        "membership"
+    ],
+    "ideological_alignment": [
+        "ideological alignment"
+    ],
+    "historical_tactic": [
+        "historical tactic"
+    ],
+    "historical_association": [
+        "historical association"
+    ],
+    "synonym": [
+        "synonym"
+    ],
+    "instrument-victim": [
+        "instrument-victim"
+    ],
+    "component-instrument": [
+        "component-instrument"
+    ],
+    "object-victim": [
+        "object-victim"
+    ],
+    "co-defendants": [
+        "co-defendants"
+    ],
+    "co-sentenced": [
+        "co-sentenced"
+    ],
+    "co-liable": [
+        "co-liable"
+    ],
+    "co-appellants": [
+        "co-appellants"
+    ],
+    "criminal_accomplices": [
+        "criminal accomplices"
+    ],
+    "instrument_of_crime": [
+        "instrument of crime"
+    ],
+    "ideological_motivation": [
+        "ideological motivation"
+    ],
+    "shared_sentencing": [
+        "shared sentencing"
+    ],
+    "shared_financial_penalty": [
+        "shared financial penalty"
+    ],
+    "legal_judgment": [
+        "legal judgment"
+    ],
+    "co-perpetrators": [
+        "co-perpetrators"
+    ],
+    "co-conspirators": [
+        "co-conspirators"
+    ],
+    "weapon_used_in_crime": [
+        "weapon used in crime"
+    ],
+    "part-of": [
+        "part-of"
+    ],
+    "location-based": [
+        "location-based"
+    ],
+    "migration": [
+        "migration"
+    ],
+    "asylum": [
+        "asylum"
+    ],
+    "suspected_relationship": [
+        "suspected relationship"
+    ],
+    "subject_of_documentary": [
+        "subject of documentary"
+    ],
+    "misidentification": [
+        "misidentification"
+    ],
+    "management": [
+        "management"
+    ],
+    "political_and_diplomatic_engagement": [
+        "political and diplomatic engagement"
+    ],
+    "indirect_connection_through_kinah": [
+        "indirect connection through kinah"
+    ],
+    "media_mention": [
+        "media mention"
+    ],
+    "employment_violation": [
+        "employment violation"
+    ],
+    "health_concern": [
+        "health concern"
+    ],
+    "product_association": [
+        "product association"
+    ],
+    "sales_platform": [
+        "sales platform"
+    ],
+    "product-seller": [
+        "product-seller"
+    ],
+    "subsidiary": [
+        "subsidiary"
+    ],
+    "sibling": [
+        "sibling"
+    ],
+    "fraudulent_activity_impact": [
+        "fraudulent activity impact"
+    ],
+    "scheme-payout": [
+        "scheme-payout"
+    ],
+    "protest_location": [
+        "protest location"
+    ],
+    "professional_role": [
+        "professional role"
+    ],
+    "governmental": [
+        "governmental"
+    ],
+    "location_of_legal_authority": [
+        "location of legal authority"
+    ],
+    "logistical": [
+        "logistical"
+    ],
+    "deception": [
+        "deception"
+    ],
+    "service": [
+        "service"
+    ],
+    "misrepresentation": [
+        "misrepresentation"
+    ],
+    "data_breach": [
+        "data breach"
+    ],
+    "sectoral_relationship": [
+        "sectoral relationship"
+    ],
+    "indirect_relationship_through_national_security_context": [
+        "indirect relationship through national security context"
+    ],
+    "findings": [
+        "findings"
+    ],
+    "financial_representation": [
+        "financial representation"
+    ],
+    "financial_compliance_issue": [
+        "financial compliance issue"
+    ],
+    "financial_irregularity": [
+        "financial irregularity"
+    ],
+    "industry_context": [
+        "industry context"
+    ],
+    "compensation_order": [
+        "compensation order"
+    ],
+    "competitive": [
+        "competitive"
+    ],
+    "professional_comment": [
+        "professional comment"
+    ],
+    "indirect_geographical_connection": [
+        "indirect geographical connection"
+    ],
+    "business_competition": [
+        "business competition"
+    ],
+    "professional_commentary": [
+        "professional commentary"
+    ],
+    "indirect_association_through_fcc": [
+        "indirect association through fcc"
+    ],
+    "industry_peer": [
+        "industry peer"
+    ],
+    "media_interaction": [
+        "media interaction"
+    ],
+    "name_association": [
+        "name association"
+    ],
+    "official_statement": [
+        "official statement"
+    ],
+    "legal_opposition": [
+        "legal opposition"
+    ],
+    "media_association": [
+        "media association"
+    ],
+    "professional_colleagues": [
+        "professional colleagues"
+    ],
+    "information_acquisition": [
+        "information acquisition"
+    ],
+    "inspection": [
+        "inspection"
+    ],
+    "legislation": [
+        "legislation"
+    ],
+    "political_dispute": [
+        "political dispute"
+    ],
+    "content_dispute": [
+        "content dispute"
+    ],
+    "location_of_trial": [
+        "location of trial"
+    ],
+    "indirect/ownership": [
+        "indirect/ownership"
+    ],
+    "shared_regulatory_action": [
+        "shared regulatory action"
+    ],
+    "personnel": [
+        "personnel"
+    ],
+    "employment_termination": [
+        "employment termination"
+    ],
+    "flight_route": [
+        "flight route"
+    ],
+    "travel_destination": [
+        "travel destination"
+    ],
+    "publication_origin": [
+        "publication origin"
+    ],
+    "flight_schedule": [
+        "flight schedule"
+    ],
+    "founder": [
+        "founder"
+    ],
+    "location_of_legal_event": [
+        "location of legal event"
+    ],
+    "former_ceo": [
+        "former ceo"
+    ],
+    "court_appearance": [
+        "court appearance"
+    ],
+    "creative": [
+        "creative"
+    ],
+    "professional_relationship": [
+        "professional relationship"
+    ],
+    "economic": [
+        "economic"
+    ],
+    "military": [
+        "military"
+    ],
+    "sanctions": [
+        "sanctions"
+    ],
+    "accountability": [
+        "accountability"
+    ],
+    "indirect/misrecognition": [
+        "indirect/misrecognition"
+    ],
+    "political_process": [
+        "political process"
+    ],
+    "capital-country": [
+        "capital-country"
+    ],
+    "sanction": [
+        "sanction"
+    ],
+    "support": [
+        "support"
+    ],
+    "indirect_support": [
+        "indirect support"
+    ],
+    "government_action": [
+        "government action"
+    ],
+    "political_statement": [
+        "political statement"
+    ],
+    "assistance": [
+        "assistance"
+    ],
+    "political_involvement": [
+        "political involvement"
+    ],
+    "economic_assistance": [
+        "economic assistance"
+    ],
+    "political_context": [
+        "political context"
+    ],
+    "indirect_impact": [
+        "indirect impact"
+    ],
+    "official_position": [
+        "official position"
+    ],
+    "organizational_responsibility": [
+        "organizational responsibility"
+    ],
+    "human_rights_concerns": [
+        "human rights concerns"
+    ],
+    "indirect_relationship_through_eu_sanctions": [
+        "indirect relationship through eu sanctions"
+    ],
+    "political_oppression": [
+        "political oppression"
+    ],
+    "shared_political_stance": [
+        "shared political stance"
+    ],
+    "military_support": [
+        "military support"
+    ],
+    "indirect_military_involvement": [
+        "indirect military involvement"
+    ],
+    "state_media": [
+        "state media"
+    ],
+    "political_unrest": [
+        "political unrest"
+    ],
+    "protest_catalyst": [
+        "protest catalyst"
+    ]
+}
